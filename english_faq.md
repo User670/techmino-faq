@@ -213,8 +213,8 @@ To import your skin into the game:
 
 ## Who are the voice actors for the voice packs? What are the voice languages?
 - [Miya](https://space.bilibili.com/846180) is a virtual live streamer who used to play a lot of block stacking games. Voice language: Japanese (line clears); Japanese, Chinese and Cat (others)
-- Mono is an artist, however their online profile has been wiped clean. Voice language: Japanese
-- Xiaoya is a fellow block stacker player. Voice language: English (line clears); Chinese (others)
+- Mono is an artist, however her online profile had been wiped clean. Voice language: Japanese
+- Xiaoya is a fellow block stacker player. She introduces herself as "Xia Xiaoya, a brand new type of duck." Voice language: English (line clears); Chinese (others)
 - [flore](https://space.bilibili.com/1223403016) is a fellow block stacker player, featured in [this article](https://github.com/User670/temp/blob/master/those_who_play_tetris.md). Voice language: English (line clears), various languages (others)
 - [Miku](https://en.wikipedia.org/wiki/Hatsune_Miku) is a voice bank for the Japanese voice synthesizer Vocaloid. Voice language: Japanese
 - [Zundamon](https://vocalsynth.fandom.com/wiki/Zundamon) is a voice bank for various voice synthesizer programs. Voice language: Japanese
