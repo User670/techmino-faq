@@ -224,6 +224,8 @@ While MrZ does not have a voice pack, there was a "Welcome to Tech" voice clip t
 ## Anti-addiction system?
 Techmino has a built-in "anti-addiction" system that apply to some players, and it will block the players from playing after playing for 4 hours in a day. This system is a parody of [China's online gaming anti-addiction system](https://www.bbc.com/news/world-asia-50315960).
 
+This *only* affects you **if** your game language is Chinese (either Simplified or Traditional) **and** you do not have a fast enough Sprint time (either rank U for Sprint 10L, or rank S for Sprint 40L).
+
 ## I see an icon that is like the "thinking" emoji, but with a Z tetromino. What is this?
 It means “Tetris”! Due to possible risk of receiving DMCAs from TTC, we have decided to replace all “Tetris” in the game with the emoji.
 
